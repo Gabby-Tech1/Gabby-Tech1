@@ -126,7 +126,7 @@
 <table align="center">
    <tr>
       <td align="center" width="90">
-         <a href="https://wa.me/233591071237?text=Hello%20Samuella," target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="gabby" height="30" width="40" /></a>
+         <a href="https://wa.me/233591071237?text=Hello%20Gabriel," target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="gabby" height="30" width="40" /></a>
       </td>
       <td align="center" width="90">
          <a href="https://www.linkedin.com/in/gabriel-kwame-addo-quainoo-3b0960297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ami_aglago" height="30" width="40" /></a>
