@@ -122,6 +122,11 @@
 </div>
 <br><br>
 
+<div align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Gabby-Tech1)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+<br><br>
+
 <h2 align="center"> Connect with me on Social Media </h2>
 <table align="center">
    <tr>
