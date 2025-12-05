@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source srcset="https://raw.githubusercontent.com/Maranathaodai/Gabby-tech1/output/github-snake-dark.svg" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://raw.githubusercontent.com/Maranathaodai/Gabby-tech1/output/github-snake.svg" media="(prefers-color-scheme: light)" />
-  <img src="https://raw.githubusercontent.com/Maranathaodai/Gabby-tech1/output/github-snake.svg" alt="Snake" />
+  <source srcset="https://raw.githubusercontent.com/gabby-tech1/gabby-tech1/output/github-snake-dark.svg" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://raw.githubusercontent.com/gabby-tech1/gabby-tech1/output/github-snake.svg" media="(prefers-color-scheme: light)" />
+  <img src="https://raw.githubusercontent.com/gabby-tech1/gabby-tech1/output/github-snake.svg" alt="Snake" />
 </picture>
 </div>
 
