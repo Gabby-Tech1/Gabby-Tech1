@@ -1,7 +1,24 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=355e3b&size=36&font=roboto&center=true&vCenter=true&width=800&height=50&lines=Junior+Software+Engineer;UX+Designer;Problem+Solver;Graphic+Designer" alt="Headline" />
+
+<picture>
+  <source srcset="https://raw.githubusercontent.com/Maranathaodai/Maranathaodai/output/github-snake-dark.svg" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://raw.githubusercontent.com/Maranathaodai/Maranathaodai/output/github-snake.svg" media="(prefers-color-scheme: light)" />
+  <img src="https://raw.githubusercontent.com/Maranathaodai/Maranathaodai/output/github-snake.svg" alt="Snake" />
+</picture>
 </div>
 
+<br />
+
+<h3 align="center">Gabriel Kwame Addo Quainoo</h3>
+<p align="center"> || Software Engineer & UI/UX Engineer || </p>
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Maranathaodai&logoColor=red&color=blue)
+  ![Open Source](https://img.shields.io/badge/Open%20Source%20Contributor-%E2%9C%94-blue?style=default)
+  ![GitHub Followers](https://img.shields.io/github/followers/Maranathaodai?label=Followers&style=default)
+  ![Stars](https://img.shields.io/github/stars/Maranathaodai?label=Stars&style=default)
+</div>
 <br>
 
 - Frontend Web Developer and Mobile App Developer using React Native
