@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source srcset="https://raw.githubusercontent.com/Maranathaodai/Maranathaodai/output/github-snake-dark.svg" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://raw.githubusercontent.com/Maranathaodai/Maranathaodai/output/github-snake.svg" media="(prefers-color-scheme: light)" />
-  <img src="https://raw.githubusercontent.com/Maranathaodai/Maranathaodai/output/github-snake.svg" alt="Snake" />
+  <source srcset="https://raw.githubusercontent.com/Maranathaodai/Gabby-tech1/output/github-snake-dark.svg" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://raw.githubusercontent.com/Maranathaodai/Gabby-tech1/output/github-snake.svg" media="(prefers-color-scheme: light)" />
+  <img src="https://raw.githubusercontent.com/Maranathaodai/Gabby-tech1/output/github-snake.svg" alt="Snake" />
 </picture>
 </div>
 
@@ -14,12 +14,12 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Maranathaodai&logoColor=red&color=blue)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Gabby-tech1&logoColor=red&color=blue)
   ![Open Source](https://img.shields.io/badge/Open%20Source%20Contributor-%E2%9C%94-blue?style=default)
-  ![GitHub Followers](https://img.shields.io/github/followers/Maranathaodai?label=Followers&style=default)
-  ![Stars](https://img.shields.io/github/stars/Maranathaodai?label=Stars&style=default)
+  ![GitHub Followers](https://img.shields.io/github/followers/Gabby-tech1?label=Followers&style=default)
+  ![Stars](https://img.shields.io/github/stars/Gabby-tech1?label=Stars&style=default)
 </div>
-<br>
+<br />
 
 - Frontend Web Developer and Mobile App Developer using React Native
 - I am currently learning Node js and Express for backend
