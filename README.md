@@ -1,9 +1,18 @@
 <div align="center">
 
 <picture>
-  <source srcset="https://raw.githubusercontent.com/gabby-tech1/gabby-tech1/output/github-snake-dark.svg" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://raw.githubusercontent.com/gabby-tech1/gabby-tech1/output/github-snake.svg" media="(prefers-color-scheme: light)" />
-  <img src="https://raw.githubusercontent.com/gabby-tech1/gabby-tech1/output/github-snake.svg" alt="Snake" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/gabby-tech1/gabby-tech1/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/gabby-tech1/gabby-tech1/output/github-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/gabby-tech1/gabby-tech1/output/github-snake.svg"
+  />
 </picture>
 </div>
 
@@ -21,7 +30,7 @@
 </div>
 <br />
 
-- Frontend Web Developer and Mobile App Developer using React Native
+- Fullstack Web Developer and Mobile App Developer using React Native
 - I am currently learning Node js and Express for backend
 - *My Favorite Languages*: Python, JavaScript, Java and C++
 - For Web development, HTML and CSS is a bonus :)
