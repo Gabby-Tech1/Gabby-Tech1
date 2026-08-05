@@ -1,5 +1,23 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Gabriel%20Kwame%20Addo%20Quainoo&animation=fadeIn&type=waving&color=gradient&height=120&fontSize=38"/>
+</p>
+
+<p align="center">
+  <b>🚀 Software Engineer | UI/UX & Mobile App Developer | Tech Innovator</b>
+</p>
+
 <div align="center">
 
+  ![Profile Views](https://komarev.com/ghpvc/?username=Gabby-tech1&label=Profile%20Views&color=00f2fe&style=for-the-badge)
+  ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-4facfe?style=for-the-badge&logo=github)
+  ![GitHub Followers](https://img.shields.io/github/followers/Gabby-tech1?label=Followers&color=00f2fe&style=for-the-badge)
+  ![Stars](https://img.shields.io/github/stars/Gabby-tech1?label=Stars&color=4facfe&style=for-the-badge)
+
+</div>
+
+<br />
+
+<div align="center">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -10,7 +28,7 @@
     srcset="https://raw.githubusercontent.com/gabby-tech1/gabby-tech1/output/github-snake.svg"
   />
   <img
-    alt="github contribution grid snake animation"
+    alt="GitHub Contribution Snake Animation"
     src="https://raw.githubusercontent.com/gabby-tech1/gabby-tech1/output/github-snake.svg"
   />
 </picture>
@@ -18,150 +36,97 @@
 
 <br />
 
-<h3 align="center">Gabriel Kwame Addo Quainoo</h3>
-<p align="center"> || Software Engineer & UI/UX Engineer || </p>
+---
+
+### ⚡ About Me
+
+* 📱 **Mobile & Web Specialist:** Expertise in cross-platform mobile app development with **React Native (Expo)** and web platforms with **React & TypeScript**.
+* 🌐 **Full-Stack Expansion:** Deepening backend engineering skills with **Node.js, Express, and Database Systems**.
+* 🧠 **Core Engineering:** Strong foundation in **Python**, **Java**, **C++**, and **Computer Science fundamentals**.
+* 🎨 **UI/UX Focused:** Passionate about crafting visually stunning, human-centered user interfaces and intuitive user flows.
+* 📬 **Get in touch:** `gkaquainoo@gmail.com`
+
+---
+
+### 🛠️ Tech Stack & Capabilities
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Gabby-tech1&logoColor=red&color=blue)
-  ![Open Source](https://img.shields.io/badge/Open%20Source%20Contributor-%E2%9C%94-blue?style=default)
-  ![GitHub Followers](https://img.shields.io/github/followers/Gabby-tech1?label=Followers&style=default)
-  ![Stars](https://img.shields.io/github/stars/Gabby-tech1?label=Stars&style=default)
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | `JavaScript` `TypeScript` `Python` `Java` `C++` `HTML5` `CSS3` |
+| **Frontend & Mobile** | `React` `React Native` `Expo` `Tailwind CSS` `Bootstrap` |
+| **Backend & Cloud** | `Node.js` `Express.js` `Firebase` |
+| **Development Tools** | `Git` `GitHub` `VS Code` `Android Studio` |
+
 </div>
+
 <br />
 
-- Fullstack Web Developer and Mobile App Developer using React Native
-- I am currently learning Node js and Express for backend
-- *My Favorite Languages*: Python, JavaScript, Java and C++
-- For Web development, HTML and CSS is a bonus :)
-- *Frameworks for development*: React, React Native and Typescript
-- *CSS Frameworks*: TailwindCSS, Bootstrap and CSS itself
-- Always ready to learn new things and explore more.
-- *Email*: gkaquainoo@gmail.com
-- Open to contribute on a project as a team or a company
+---
 
- [![Gabriel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gabby-Tech1&bg_color=ffffff&color=00eeff&line=21fc0d&point=000000&area=true&hide_border=true)](https://github.com/Gabby-Tech1/)
+### 🌟 Featured Projects
 
-## Languages and Tools
-<!-- Languages table -->
-<table align="center">
-      <!-- Row 1 -->
-   <tr>
-      <!-- Column 1 -->
-      <td align="center" width="90">
-         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" width="50" height="50"/>
-         <br>Android Studio
-      </td>
-      <!-- Column 2 -->
-      <td align="center" width="90">
-         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1200px-HTML5_Badge.svg.png" alt="html" width="50" height="50"/>
-         <br>HTML
-      </td>
-      <!-- Column 3 -->
-     <td align="center" width="90">
-         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="CSS" border="0" width="50" height="50">
-         <br>CSS
-      </td>
-     <!-- Column 4 -->
-      <td align="center" width="90">
-         <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="45" height="45" alt="PostgreSQL" />
-      <br>Github
-      </td>
-     <!-- Column 5 -->
-      <td align="center" width="90">
-         <img src="https://cdn.freebiesupply.com/logos/thumbs/1x/firebase-1-logo.png" width="45" height="45" alt="Firebase" />
-      <br>Firebase
-      </td>
-   </tr>   
-  <!-- Row 2-->
-   <tr>
-      <!-- Column 1 -->
-      <td align="center" width="90">
-         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="45" />
-      <br>Javascript
-      </td>
-      <!-- Column 2 -->
-      <td align="center" width="90">
-         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="50" height="50"/>
-         <br>Visual Studio Code
-      </td>
-      <!-- Column 3 -->
-      <td align="center" width="90">
-         <img src="https://cdn.freebiesupply.com/logos/thumbs/1x/c-logo.png" alt="icon" width="45" height="45" />
-      <br>C++
-      </td>
-     <!-- Column 4 -->
-      <td align="center" width="90">
-         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg" width="45" height="45" alt="PostgreSQL" />
-      <br>Git
-      </td>
-     <!-- Column 5 -->
-      <td align="center" width="90">
-         <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="45" height="45" alt="PostgreSQL" />
-      <br>React
-      </td>
-   </tr>
-   <tr>
-      <!-- Column 1 -->
-      <td align="center" width="90">
-         <img src="https://cdn.freebiesupply.com/logos/thumbs/1x/python-3-logo.png" alt="python" width="65" height="65" />
-      <br>Python
-      </td>
-      <!-- Column 2 -->
-      <td align="center" width="90">
-         <img src="https://cdn.freebiesupply.com/logos/thumbs/1x/java-logo.png" width="50" height="50"/>
-         <br>Java
-      </td>
-      <!-- Column 3 -->
-      <td align="center" width="90">
-         <img src="https://www.appcoda.com/wp-content/uploads/2015/04/react-native.png" alt="icon" width="45" height="45" />
-      <br>React Native
-      </td>
-     <!-- Column 4 -->
-      <td align="center" width="90">
-         <img src="https://mythinkpond.com/img/logo/tailwindcss-logo.png" width="45" height="45" alt="PostgreSQL" />
-      <br>Tailwind CSS
-      </td>
-     <!-- Column 5 -->
-      <td align="center" width="90">
-         <img src="https://them.es/starter-bootstrap/wp-content/uploads/sites/7/2021/05/bootstrap-logo-300x239.png" width="45" height="45" alt="PostgreSQL" />
-      <br>Bootstrap
-      </td>
-   </tr> 
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📱 Miyaka Mobile App</h3>
+      <p>A cross-platform mobile application built using the Expo ecosystem, providing intuitive navigation and seamless user authentication flows.</p>
+      <p><b>Tech Stack:</b> React Native, Expo, JavaScript</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛍️ Sovaner Marketplace</h3>
+      <p>A digital e-commerce marketplace utility designed for smooth buyer-seller interactions, accessible web engagement, and dynamic transactions.</p>
+      <p><b>Tech Stack:</b> React, Node.js, Tailwind CSS</p>
+    </td>
+  </tr>
 </table>
 
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gabby-Tech1&show_icons=true&theme=tokyonight&hide_border=true" alt="Gabriel's Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabby-Tech1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
 <br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabby-Tech1&bg_color=0f172a&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Gabby-Tech1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Gabby-Tech1&theme=onedark&column=4&margin-w=15" alt="Trophies" />
+  </a>
+</div>
+
+---
+
+### 🤝 Let's Connect
+
 <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabby-Tech1&show_icons=true&locale=en&layout=compact" alt="Gabby-Tech1" />
+  <a href="https://wa.me/233591071237?text=Hello%20Gabriel," target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gabriel-kwame-addo-quainoo-3b0960297" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:gkaquainoo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
-
-<br>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gabby-Tech1&show_icons=true" alt="GitHub Stats" />
-</div>
-<br>
-
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Gabby-Tech1)](https://git.io/streak-stats)
-</div>
-<br><br>
-
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Gabby-Tech1)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
-<br><br>
-
-<h2 align="center"> Connect with me on Social Media </h2>
-<table align="center">
-   <tr>
-      <td align="center" width="90">
-         <a href="https://wa.me/233591071237?text=Hello%20Gabriel," target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="gabby" height="30" width="40" /></a>
-      </td>
-      <td align="center" width="90">
-         <a href="https://www.linkedin.com/in/gabriel-kwame-addo-quainoo-3b0960297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ami_aglago" height="30" width="40" /></a>
-      </td>
-   </tr>
-</table>
